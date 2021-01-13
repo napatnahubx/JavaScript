@@ -5,6 +5,8 @@ switch (status) {
         console.log('OK!');
         break;
     case 400: // or
+    console.log('Error!400');
+    break;
     case 500: // or
         console.log('Error!');
         break;
