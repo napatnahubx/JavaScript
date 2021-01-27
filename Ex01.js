@@ -4,4 +4,4 @@ function  findPerimeter(l,w){
 return (l*2)+(w*2);
 
 }
-console.log(Findperimeter(length, width));
+console.log(findPerimeter(length, width));
