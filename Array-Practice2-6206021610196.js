@@ -8,7 +8,7 @@ for (let char of furniture[0]) {
 
   for (let char of furniture[1]) {
     
-    console.log( char ); }
+    console.log( char ); }}
 
     console.log( furniture[2] );
     
