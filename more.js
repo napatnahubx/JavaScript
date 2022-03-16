@@ -24,7 +24,7 @@ async function msg() {
     const b = await what();
     const c = await where();
 
-    console.log(${a} ${b} ${c});  
+    console.log( `${a} ${b} ${c}`);  
 }
 console.log('we are looking for:')
 msg();

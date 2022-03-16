@@ -28,4 +28,3 @@ console.log(num1.toString());
 console.log(flo1.toString());
 console.log((100).toString());
 
-console.log('Hello')

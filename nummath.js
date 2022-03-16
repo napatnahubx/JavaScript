@@ -17,4 +17,4 @@ console.log(--num1); //Decrement
 console.log("********Using the Math Object********");
 //Using the Math Object
 console.log(Math.PI); //Pi 
-console.l
+console.log(Math.sqr(num1));

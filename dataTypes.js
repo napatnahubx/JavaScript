@@ -7,9 +7,9 @@ const employee={
     lastname:"Mingkhawn",
 };
 function sayHello(person){
-    consloe.log("Hello"+person.firstName);
+    console.log("Hello" +person.firstName);
 }
 console.log(typeof people);
 console.log(typeof sayHello);
-console.log(employee instanceof array);
+console.log(employee instanceof Array);
 sayHello(employee);
